@@ -7,7 +7,7 @@
 
 ## Real-World Motion-blurred License Plate Results
 
-**Comparison with the state-of-the-art Real-SR methods.**
+**Comparison with the other methods.**
 
 <img src="https://github.com/haoyGONG/LPDGAN/blob/main/figures/results.jpg" width="800"/>
 

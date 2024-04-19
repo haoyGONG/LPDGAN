@@ -9,7 +9,7 @@
 
 **Comparison with the state-of-the-art Real-SR methods.**
 
-<img src="https://raw.githubusercontent.com/chxy95/HAT/master/figures/Comparison.png" width="800"/>
+<img src="https://github.com/haoyGONG/LPDGAN/blob/main/figures/results.jpg" width="800"/>
 
 
 ## Citations

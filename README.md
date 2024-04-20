@@ -18,7 +18,7 @@
 
 
 ## Environment
-
+torch>=2.1.1+cu121
 
 ### Installation
 Install Pytorch first.

@@ -10,3 +10,5 @@ dominate>=2.9.0
 yaml>=0.2.5
 pyyaml>=6.0
 yacs>=0.1.8
+timm>=0.9.12
+einops>=0.7.0

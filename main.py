@@ -9,6 +9,12 @@ def main(opt):
         os.makedirs(opt.checkpoints_dir)
     if not os.path.exists(opt.results_dir):
         os.makedirs(opt.results_dir)
+        
+    if opt.mode == 'train':
+        trainer(opt)
+
+    elif opt.mode == 'test':
+        test(opt)
 
 
 

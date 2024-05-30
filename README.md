@@ -1,7 +1,7 @@
 # LPDGAN
 
 
-### A Dataset and Model for Realistic License Plate Deblurring [[Paper Link]]([https://drive.google.com/file/d/1ygdpsYdFVUbDoBtcTpb-D0ag9g-ONi0S/view?usp=sharing](https://arxiv.org/abs/2404.13677))
+### A Dataset and Model for Realistic License Plate Deblurring [[Paper Link]](https://arxiv.org/abs/2404.13677)
 [Haoyan Gong], [Yuzheng Feng], [Zhenrong Zhang], [Xianxu Hou], [Jingxin Liu], [Siqi Huang] and [Hongbin Liu]
 
 
